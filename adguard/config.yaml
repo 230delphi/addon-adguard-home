@@ -1,8 +1,8 @@
 ---
-name: AdGuard Home
+name: rkAdGuard Home
 version: dev
-slug: adguard
-description: Network-wide ads & trackers blocking DNS server
+slug: rkadguard
+description: RK Network-wide ads & trackers blocking DNS server
 url: https://github.com/hassio-addons/addon-adguard-home
 codenotary: codenotary@frenck.dev
 ingress: true
